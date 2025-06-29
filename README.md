@@ -1,13 +1,14 @@
 # Virginia Tech RockSat-X 2026 Project.
 
 ---
-# Key Point
+# Key Points
 - STICK TO USER MANUAL
 
 # Etiquette.
 
 - [_**Don't track junk files.**_](#dont-track-junk-files)
 - [_**Don't track chunky files.**_](#dont-track-chunky-files)
+- _**Think about usability when designing.**_
 
 ---
 # Action Items
@@ -31,6 +32,7 @@
 - [ ] Summer Testing Personel Breifing.
 - [ ] Locktight/Hotglue/Secure Fasteners.
 - [ ] Vibration Test.
+- [ ] Create Inventory Sheet for Expierement Shipping Container.
 - [ ] Summer Testing Procedures Checksheets.
 
 ---
